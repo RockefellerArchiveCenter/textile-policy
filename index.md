@@ -7,10 +7,10 @@ The Rockefeller Archive Center’s collections include textiles ranging in a var
 
 ## Environment and Housing
 
-•	Textiles should be stored in a stable vault environment. This will protect the textiles from improper temperature and relative humidity levels which lead to damage in fibers and dyes. Cracking, flaking, bleeding are likely to occur if textiles are subject to higher temperatures and humidity.  
+•	Textiles should be stored in a stable vault environment. This will protect the textiles from improper temperature and relative humidity levels which lead to damage in fibers and dyes. Cracking, flaking, and bleeding are likely to occur if textiles are subject to higher temperatures and humidity.  
 •	Limiting light exposure is of extreme importance, as it leads to color fading, degradation, and irreversible damage to textile fibers.   
 •	Items should be housed in flat archival boxes to protect against, dust, dirt, pollutants, and mold. Textiles are especially sensitive to abrasions due to dust and gritty surfaces. Flat storage provides support for the textile and avoids placing stress on the fibers. Keep folding to a minimum.  
-•	Flat storage units, such as drawers, trays, shelves, and boxes should allow for the easy removal of textiles with the least amount of direct handling.  
+•	Flat storage units such as drawers, trays, shelves, and boxes should allow for the easy removal of textiles with the least amount of direct handling.  
 •	Textiles should never be left uncovered on open shelving.  
 •	Store attachments separately. Unbuffered acid free tissue paper should be the only wrapping/box lining housed with the textile. Remove pins and staples, as they are susceptible to rust and put stress on the material. Any metal fasteners should be covered with acid free tissue or clean cotton.
 
@@ -19,7 +19,7 @@ The Rockefeller Archive Center’s collections include textiles ranging in a var
 •	Two or more Collections Management staff members should always be involved when textiles are being handled.  
 •	Staff members should be aware of any weak areas in the material before handling the item.  
 •	Staff members handling textiles should have clean skin, wash their hands frequently, and wear nitrile gloves. Creams should be avoided before handling because they are easily absorbed by textile fibers and can stain.  
-•	Jewelry should be removed, so as to avoid snagging or rubbing potentially harmful objects against material.  
+•	Jewelry should be removed to avoid snagging or rubbing potentially harmful objects against material.  
 •	When handling a textile, the weight of the item should be distributed as evenly as possible. A lighter material can be supported with paper or corrugated board. Heavier textiles should be rolled on a large tube (preferably covered in layer of cotton fabric to protect fringe). Roll the textile with the right side face up, so the material rolls inwards. Textiles with raised textures should be rolled with the right side face down.  
 •	Do not place textiles one on top of the other. The weight can damage the textile beneath. If this cannot be avoided, the heavier textile should be placed on the bottom.  
 •	Textiles should not be vacuumed. A professional conservator should be contacted to learn of the most appropriate cleaning techniques.  
