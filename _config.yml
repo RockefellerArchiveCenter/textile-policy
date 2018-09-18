@@ -1,0 +1,10 @@
+public: false
+type: "docs"
+tags:
+  - "policy"
+  - "textiles"
+  - "collections management"
+title: "Textile Policies and Procedures"
+description: "The policy and procedures for the storage, handling, and display of textiles."
+pages:
+  - ["Textile Policies and Procedures", "index"]
