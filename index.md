@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Textile Policies and Procedures"
+title:  "Textile Policies and Procedures"
 ---
 
 The Rockefeller Archive Center’s collections include textiles ranging in a variety of sizes, materials, structure, and composition. Storage, handling, and display decisions should take into account those varying factors, as they greatly affect long term preservation of textiles.
